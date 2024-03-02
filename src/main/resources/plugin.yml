@@ -1,0 +1,4 @@
+name: grains
+version: '${project.version}'
+main: com.caltr.grains.Grains
+api-version: '1.20'
